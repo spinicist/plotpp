@@ -1,0 +1,10 @@
+{
+    "name": "plotpp",
+    "version-string": "0.1",
+    "dependencies": [
+        "args",
+        "eigen3",
+        "fmt",
+        "skia"
+    ]
+}
